@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Lenovo/Desktop/projects/ml%20ops/src/mlruns/511234710353193400/models/m-b9a4644d3a9744eb9b3a2fea9646e580/artifacts
+creation_timestamp: 1750420481163
+experiment_id: '511234710353193400'
+last_updated_timestamp: 1750420488291
+model_id: m-b9a4644d3a9744eb9b3a2fea9646e580
+model_type: null
+name: model
+source_run_id: b98b39b91d6c4147a9411712db96f892
+status: 2
+status_message: null

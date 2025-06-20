@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/projects/ml%20ops/src/mlruns/511234710353193400/b98b39b91d6c4147a9411712db96f892/artifacts
+end_time: 1750420488306
+entry_point_name: ''
+experiment_id: '511234710353193400'
+lifecycle_stage: active
+run_id: b98b39b91d6c4147a9411712db96f892
+run_name: able-sheep-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750420480768
+status: 4
+tags: []
+user_id: Lenovo

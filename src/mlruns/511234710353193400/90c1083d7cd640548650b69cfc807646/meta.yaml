@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/projects/ml%20ops/src/mlruns/511234710353193400/90c1083d7cd640548650b69cfc807646/artifacts
+end_time: 1750421232180
+entry_point_name: ''
+experiment_id: '511234710353193400'
+lifecycle_stage: active
+run_id: 90c1083d7cd640548650b69cfc807646
+run_name: upset-smelt-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750421226126
+status: 3
+tags: []
+user_id: Lenovo
