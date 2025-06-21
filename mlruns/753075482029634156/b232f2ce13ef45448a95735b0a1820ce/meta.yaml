@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/projects/ml%20ops/mlruns/753075482029634156/b232f2ce13ef45448a95735b0a1820ce/artifacts
+end_time: 1750423447657
+entry_point_name: ''
+experiment_id: '753075482029634156'
+lifecycle_stage: active
+run_id: b232f2ce13ef45448a95735b0a1820ce
+run_name: suave-turtle-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750423440940
+status: 3
+tags: []
+user_id: Lenovo

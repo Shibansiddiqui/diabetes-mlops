@@ -7,6 +7,6 @@ def load_data(path=r"C:\Users\Lenovo\Desktop\projects\ml ops\data\diabetes.csv")
     return df
 
 def split_data(df):
-    X = df.drop("Outcome", axis=1)
+    X = df.drop(['Id', 'Outcome'], axis=1)
     y = df["Outcome"]
     return train_test_split(X, y, test_size=0.2, random_state=42)
